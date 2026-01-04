@@ -1,0 +1,5 @@
+claim_id,member,amount,status
+101,M001,1200,PAID
+102,M002,450,DENIED
+103,M001,800,PAID
+104,M003,300,PAID
